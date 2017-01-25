@@ -1,0 +1,7 @@
+F:\12072016\VTourKitchener\VTourKitchener\bin\VTourKitchener.dll.config
+F:\12072016\VTourKitchener\VTourKitchener\bin\VTourKitchener.dll
+F:\12072016\VTourKitchener\VTourKitchener\bin\VTourKitchener.pdb
+F:\12072016\VTourKitchener\VTourKitchener\bin\AjaxControlToolkit.dll
+F:\12072016\VTourKitchener\VTourKitchener\obj\Debug\VTourKitchener.dll
+F:\12072016\VTourKitchener\VTourKitchener\obj\Debug\VTourKitchener.pdb
+F:\12072016\VTourKitchener\VTourKitchener\obj\Debug\VTourKitchener.csprojResolveAssemblyReference.cache
